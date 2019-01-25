@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jmach83/vidly-backend/issues"
   },
-  "homepage": "https://github.com/Jmach83/vidly-backend#readme"
+  "homepage": "https://github.com/Jmach83/vidly-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
